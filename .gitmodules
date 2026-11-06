@@ -1,0 +1,3 @@
+[submodule "TPs/dingz-back"]
+	path = TPs/dingz-back
+	url = https://github.com/esirem-chassel/4a-devops-dingz-back
